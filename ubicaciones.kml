@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+	<Document>
+		<name></name>
+		<atom:link rel="related" href="://" />
+		<Folder>
+			<Placemark>
+				<name><![CDATA[Clinica Aguirre]]></name>
+				<address><![CDATA[Paseo de la Habana 21, Madrid, 28036, Spain]]></address>
+				<description><![CDATA[]]></description>
+				<Point>
+					<coordinates>-3.6873558,40.4506518,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Document>
+</kml>
