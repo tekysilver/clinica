@@ -8,7 +8,7 @@ $(document).ready(function () {
 
     // Map Coordination
 
-    var latlng = new google.maps.LatLng(40.451026, -3.687141);
+    var latlng = new google.maps.LatLng(40.56607804315652, -3.5063902000000553);
 
     // Map Options
     var myOptions = {
@@ -118,7 +118,7 @@ $(document).ready(function () {
 
     // First Marker Coordination
 
-    var myLatlng = new google.maps.LatLng(40.451026, -3.687141);
+    var myLatlng = new google.maps.LatLng(40.56607804315652, -3.5063902000000553);
 
     // Your Texts 
 
@@ -127,12 +127,12 @@ $(document).ready(function () {
         '</div>' +
         '<h5 class="main-marker-title">' +
 
-        'Clínica Aguirre.' +
+        'Gesticlinic Asesores.' +
 
         '</h5>' +
         '<p class="secondary-marker-title">' +
 
-        'Paseo de la Habana, 21' +
+        'Cobeña' +
 
         '</p>' +
         '</div>';
@@ -141,7 +141,7 @@ $(document).ready(function () {
     var marker = new google.maps.Marker({
         position: myLatlng,
         map: map,
-        title: 'Clínica Aguirre!',
+        title: 'Gesticlinic Asesores!',
         icon: image
     });
 
@@ -156,7 +156,7 @@ $(document).ready(function () {
 			  });*/
     google.maps.event.addListener(marker, 'click', function () {
         //infowindow.open(map,marker);
-        window.open('https://www.google.co.uk/maps/place/Paseo+de+la+Habana,+21,+28036+Madrid,+Espa%C3%B1a/data=!4m2!3m1!1s0xd4228e164de53f7:0x256c1dee66305596?sa=X&ved=0ahUKEwiEv6TMyPHbAhUFuxQKHeurDaUQ8gEIJzAA',
+        window.open('https://www.google.es/maps/place/28863+Cobe%C3%B1a,+Madrid/@40.5144001,-3.6703699,12z/data=!4m5!3m4!1s0xd42335975a07d25:0x4e2c55f8a240ea0b!8m2!3d40.5683393!4d-3.5040753',
           '_blank' // <- This is what makes it open in a new window.
         );
     });
