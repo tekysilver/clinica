@@ -941,13 +941,15 @@ Pricing tables
 Portfolio styles
 */
 .work-header {
-  padding-top: 100px;
-  padding-bottom: 80px;
+  padding-top: 30px;
+  padding-bottom: 30px;
   background: #16a5ad;
 }
 .work-header .center-title {
   color: #fff;
   text-align: center;
+  height: 35px;
+
 }
 .work-header .center-border {
   margin: 0 auto;
