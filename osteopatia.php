@@ -7,7 +7,8 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>Tratamiento Osteopatía - Madrid Torre Europa | Clínica Aguirre</title>
-		<meta name="description" content="¿Buscas Tratamiento de Osteopatía? Clínica Aguirre tiene los mejores osteopatas de Madrid. Visita nuestra clínica de osteopatía en Madrid para el mejor tratamiento. Somos tu centro de masajes, drenajes linfáticos, fisioterapia y osteopatía en Madrid. ¡Te estamos esperando!">
+		<meta name="description" content="Somos una consultoría & asesoría con amplia experiencia en el diseño,
+		creación, puesta en marcha y desarrollo de centros médicos y servicios sanitarios complementarios">
         <!-- Favicon -->
         <link rel="apple-touch-icon" sizes="57x57" href="assets/images/logo-clinica-aguirre.png">
         <link rel="apple-touch-icon" sizes="60x60" href="assets/images/logo-clinica-aguirre.png">
