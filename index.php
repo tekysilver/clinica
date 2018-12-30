@@ -5,23 +5,23 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Gesticlinic Asesores | Consultoría & Asesoría </title>
+    <title>Gesticlinic Asesores | Consultoría & Asesoría</title>
     <meta name="description" content="Somos una consultoría & asesoría con amplia experiencia en el diseño,
 		creación, puesta en marcha y desarrollo de centros médicos y servicios sanitarios complementarios">
     <!-- Favicon -->
-    <link rel="apple-touch-icon" sizes="57x57" href="assets/images/logo-clinica-aguirre.png">
-    <link rel="apple-touch-icon" sizes="60x60" href="assets/images/logo-clinica-aguirre.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="assets/images/logo-clinica-aguirre.png">
-    <link rel="apple-touch-icon" sizes="76x76" href="assets/images/logo-clinica-aguirre.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="assets/images/logo-clinica-aguirre.png">
-    <link rel="apple-touch-icon" sizes="120x120" href="assets/images/logo-clinica-aguirre.png">
-    <link rel="apple-touch-icon" sizes="144x144" href="assets/images/logo-clinica-aguirre.png">
-    <link rel="apple-touch-icon" sizes="152x152" href="assets/images/logo-clinica-aguirre.png">
-    <link rel="apple-touch-icon" sizes="180x180" href="assets/images/logo-clinica-aguirre.png">
-    <link rel="icon" type="image/png" sizes="192x192" href="assets/images/logo-clinica-aguirre.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="assets/images/logo-clinica-aguirre.png">
-    <link rel="icon" type="image/png" sizes="96x96" href="assets/images/logo-clinica-aguirre.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="assets/images/logo-clinica-aguirre.png">
+    <link rel="apple-touch-icon" sizes="57x57" href="assets/images/favicons/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="assets/images/favicons/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="assets/images/favicons/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="assets/images/favicons/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="assets/images/favicons/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="assets/images/favicons/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="assets/images/favicons/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="assets/images/favicons/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192"  href="assets/images/favicons/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="assets/images/favicons/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicons/favicon-16x16.png">
     <link rel="manifest" href="/manifest.json">
     <meta name="msapplication-TileColor" content="#ffffff">
     <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
@@ -59,40 +59,6 @@
     <div id="preloader-inner"></div>
 </div>
 <!--/preloader-->
-<!--top bar start-->
-<div class="top-bar">
-    <div class="container">
-        <div class="row">
-            <div class="col-sm-12 hidden-sm-down">
-                <ul class="list-inline">
-                    <li class="list-inline-item"><a href="#"><i class="ion-ios-location"></i> Cobeña, 21, 28036 Madrid</a></li>
-                    <li class="list-inline-item"><a href="tel:914113525" onclick="gtag
-                        (
-                            'event',
-                            'llamada-telefono',
-                            {
-                                event_category: 'telefono',
-                                event_action: 'llamada',
-                                event_label: 'movil'
-                            }
-                        );">
-                            <i class="ion-ios-telephone"></i> +34 680 96 49 75</a></li>
-                    <li class="list-inline-item">
-                        <a href="mailto:info@gesticlinic.com">
-                            <i class="ion-paper-airplane"></i> info@gesticlinic.com
-                        </a>
-                    </li>
-                    </a></li>
-                    <li class="list-inline-item"><a href="#"><i class="ion-ios-clock"></i> Lunes a Viernes de 9:00 am a 9:00 pm</a></li>
-                </ul>
-            </div>
-            <!--top left col end-->
-        </div>
-        <!--row-->
-    </div>
-    <!--container-->
-</div>
-<!--top bar end-->
 <section id="home" class="dzsparallaxer auto-init dzsparallaxer---window-height use-loading" style="position: relative; height: 800px;" data-options='{  mode_scroll: "normal" }'>
 
     <div class="divimage dzsparallaxer--target " data-src="assets/images/gesticlinic/portada1-dark.jpg"
@@ -112,27 +78,8 @@
                         <div class="flexslider">
                             <ul class="slides">
                                 <li class="list-inline-item">
-                                    <a href="tel:914113525" onclick="gtag
-                                        (
-                                            'event',
-                                            'llamada-telefono',
-                                            {
-                                                event_category: 'telefono',
-                                                event_action: 'llamada',
-                                                event_label: 'movil'
-                                            }
-                                        );">
-                                        <i class="ion-ios-telephone"></i> +34 680 96 49 75
-                                    </a>
-                                </li>
-                                <li class="list-inline-item">
                                     <a href="mailto:info@gesticlinic.com">
                                         <i class="ion-paper-airplane"></i> info@gesticlinic.com
-                                    </a>
-                                </li>
-                                <li class="list-inline-item">
-                                    <a href="#">
-                                        <i class="ion-ios-clock"></i> Lunes a Viernes de 9:00 am a 9:00 pm
                                     </a>
                                 </li>
                             </ul>
@@ -271,17 +218,17 @@
         <div id="js-filters-awesome-work" class="cbp-l-filters-work">
             <div data-filter="*" class="cbp-filter-item-active cbp-filter-item"> TODO </div>
             <div data-filter=".fisioterapia" class="cbp-filter-item-active cbp-filter-item"> Consultoría administrativa </div>
-            <div data-filter=".osteopatia" class="cbp-filter-item"> Área económica </div>
+            <div data-filter=".osteopatia" class="cbp-filter-item"> Consultoría económica </div>
             <div data-filter=".drenaje" class="cbp-filter-item"> Consultoría Recursos Humanos </div>
             <div data-filter=".masajes" class="cbp-filter-item"> Consultoría tecnológica </div>
             <div data-filter=".kinesiologia" class="cbp-filter-item"> Consultoría de Marketing </div>
-            <div data-filter=".craneosacral" class="cbp-filter-item"> Área social & Colaboración </div>
+            <div data-filter=".craneosacral" class="cbp-filter-item"> Consultoría social & Colaboración </div>
         </div>
         <!--filter nav end-->
         <div id="js-grid-awesome-work" class="cbp cbp-l-grid-work">
             <div class="cbp-item fisioterapia">
                 <a href="assets/ajax-awesome-work/project1.html" class="cbp-caption cbp-singlePage" rel="nofollow">
-                    <div class="cbp-caption-defaultWrap"> <img src="assets/images/gesticlinic/area administrativa.jpg" alt=""> </div>
+                    <div class="cbp-caption-defaultWrap"> <img src="assets/images/consultoria/administrativa.jpg" alt=""> </div>
                     <div class="cbp-caption-activeWrap"></div>
                 </a>
                 <!-- <a href="assets/ajax-awesome-work/project1.html" class="cbp-l-grid-work-title cbp-singlePage" rel="nofollow">FISIOTERAPIA</a>
@@ -292,17 +239,17 @@
             <!--work item-->
             <div class="cbp-item osteopatia">
                 <a href="assets/ajax-awesome-work/project5.html" class="cbp-caption cbp-singlePage" rel="nofollow">
-                    <div class="cbp-caption-defaultWrap"> <img src="assets/images/gesticlinic/area economica.jpg" alt=""> </div>
+                    <div class="cbp-caption-defaultWrap"> <img src="assets/images/consultoria/economica.jpg" alt=""> </div>
                     <div class="cbp-caption-activeWrap"></div>
                     <!-- </a> <a href="assets/ajax-awesome-work/project5.html" class="cbp-l-grid-work-title cbp-singlePage" rel="nofollow">OSTEOPATÍA</a>
                     <div class="cbp-l-grid-work-desc"><a href="assets/ajax-awesome-work/project5.html" rel="nofollow" class=" cbp-singlePage">VER MÁS</a></div> -->
-                    <a href="http://www.clinicaaguirre.com/osteopatia" class="cbp-l-grid-work-title" > Área económica</a>
+                    <a href="http://www.clinicaaguirre.com/osteopatia" class="cbp-l-grid-work-title" > Consultoría económica</a>
                     <div class="cbp-l-grid-work-desc"><a href="http://www.clinicaaguirre.com/osteopatia"  >VER MÁS </a></div>
             </div>
             <!--work item-->
             <div class="cbp-item kinesiologia">
                 <a href="assets/ajax-awesome-work/project6.html" class="cbp-caption cbp-singlePage" rel="nofollow">
-                    <div class="cbp-caption-defaultWrap"> <img src="assets/images/gesticlinic/area recursos humanos.jpg" alt=""> </div>
+                    <div class="cbp-caption-defaultWrap"> <img src="assets/images/consultoria/recursos_humanos.jpg" alt=""> </div>
                     <div class="cbp-caption-activeWrap"></div>
                     <!-- </a> <a href="assets/ajax-awesome-work/project5.html" class="cbp-l-grid-work-title cbp-singlePage" rel="nofollow">KINESOLOGÍA</a>
                     <div class="cbp-l-grid-work-desc"><a href="assets/ajax-awesome-work/project6.html" rel="nofollow" class=" cbp-singlePage">VER MÁS</a></div> -->
@@ -312,7 +259,7 @@
             <!--work item-->
             <div class="cbp-item craneosacral">
                 <a href="assets/ajax-awesome-work/project7.html" class="cbp-caption cbp-singlePage" rel="nofollow">
-                    <div class="cbp-caption-defaultWrap"> <img src="assets/images/gesticlinic/area tecnologica 2.jpg" alt=""> </div>
+                    <div class="cbp-caption-defaultWrap"> <img src="assets/images/consultoria/tecnologica.jpg" alt=""> </div>
                     <div class="cbp-caption-activeWrap"></div>
                     <!-- </a> <a href="assets/ajax-awesome-work/project7.html" class="cbp-l-grid-work-title cbp-singlePage" rel="nofollow">TERAPIA CRANEOSACRAL</a>
                     <div class="cbp-l-grid-work-desc"><a href="assets/ajax-awesome-work/project6.html" rel="nofollow" class=" cbp-singlePage">VER MÁS</a></div> -->
@@ -322,7 +269,7 @@
             <!--work item-->
             <div class="cbp-item masajes">
                 <a href="assets/ajax-awesome-work/project2.html" class="cbp-caption cbp-singlePage" rel="nofollow">
-                    <div class="cbp-caption-defaultWrap"> <img src="assets/images/gesticlinic/area tecnologica 2.jpg" alt=""> </div>
+                    <div class="cbp-caption-defaultWrap"> <img src="assets/images/consultoria/marketing.jpg" alt=""> </div>
                     <div class="cbp-caption-activeWrap"></div>
                     <!-- </a> <a href="assets/ajax-awesome-work/project2.html" class="cbp-l-grid-work-title cbp-singlePage" rel="nofollow">MASAJES EMBARAZADAS</a>
                     <div class="cbp-l-grid-work-desc"><a href="assets/ajax-awesome-work/project2.html" rel="nofollow" class=" cbp-singlePage">VER MÁS </a></div> -->
@@ -332,11 +279,11 @@
             <!--work item-->
             <div class="cbp-item drenaje">
                 <a href="assets/ajax-awesome-work/project4.html" class="cbp-caption cbp-singlePage" rel="nofollow">
-                    <div class="cbp-caption-defaultWrap"> <img src="assets/images/gesticlinic/area tecnologica 2.jpg" alt=""> </div>
+                    <div class="cbp-caption-defaultWrap"> <img src="assets/images/consultoria/social_colaboracion.jpg" alt=""> </div>
                     <div class="cbp-caption-activeWrap"></div>
                     <!-- </a> <a href="assets/ajax-awesome-work/project4.html" class="cbp-l-grid-work-title cbp-singlePage" rel="nofollow">DRENAJE LINFÁTICO</a>
                     <div class="cbp-l-grid-work-desc"><a href="assets/ajax-awesome-work/project4.html" rel="nofollow" class=" cbp-singlePage">VER MÁS</a></div> -->
-                    <a href="http://www.clinicaaguirre.com/drenaje-linfatico" class="cbp-l-grid-work-title" >Área social & Colaboración</a>
+                    <a href="http://www.clinicaaguirre.com/drenaje-linfatico" class="cbp-l-grid-work-title" >Consultoría social & Colaboración</a>
                     <div class="cbp-l-grid-work-desc"><a href="http://www.clinicaaguirre.com/drenaje-linfatico"  >VER MÁS </a></div>
             </div>
             <!--work item-->
@@ -457,24 +404,10 @@
             <div class="col-md-5 ml-auto scrollReveal sr-right sr-delay-1">
                 <div class="contact-details">
                     <p class="lead">
-                        <i class="ion-ios-location"></i> Cobeña, 28036 Madrid</p>
-                    <p class="lead">
-                        <a href="tel:914113525" onclick="gtag('event',
-                        'llamada-telefono',
-                        {
-                            event_category: 'telefono',
-                            event_action: 'llamada',
-                            event_label: 'movil'
-                        });">
-                            <i class="ion-ios-telephone"></i> +34 680 96 49 75
-                        </a>
-                    </p>
-                    <p class="lead">
                         <a href="mailto:info@gesticlinic.com">
                             <i class="ion-paper-airplane"></i> info@gesticlinic.com
                         </a>
                     </p>
-                    <p class="lead"><i class="ion-ios-clock"></i> Lunes a Viernes de 9:00 am a 9:00 pm</p>
                 </div>
                 <!--contact detail-->
             </div>
@@ -502,27 +435,8 @@
             <div class="col-md-7 text-right">
                 <ul class="list-inline margin-b-30">
                     <li class="list-inline-item">
-                        <a href="tel:914113525" onclick="gtag
-                            (
-                                'event',
-                                'llamada-telefono',
-                                {
-                                    event_category: 'telefono',
-                                    event_action: 'llamada',
-                                    event_label: 'movil'
-                                }
-                            );">
-                            <i class="ion-ios-telephone"></i> +34 680 96 49 75
-                        </a>
-                    </li>
-                    <li class="list-inline-item">
                         <a href="mailto:info@gesticlinic.com">
                             <i class="ion-paper-airplane"></i> info@gesticlinic.com
-                        </a>
-                    </li>
-                    <li class="list-inline-item">
-                        <a href="#">
-                            <i class="ion-ios-clock"></i> Lunes a Viernes de 9:00 am a 9:00 pm
                         </a>
                     </li>
                 </ul>
