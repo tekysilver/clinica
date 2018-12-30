@@ -1,11 +1,11 @@
 # BEGIN WordPress
 <IfModule mod_rewrite.c>
 RewriteEngine On
-RewriteBase /clinicaaguirre/
+RewriteBase /gesticlinic/
 RewriteRule ^index\.php$ - [L]
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule . /clinicaaguirre/index.php [L]
+RewriteRule . /gesticlinic/index.php [L]
 </IfModule>
 
 # END WordPress

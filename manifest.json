@@ -1,1 +1,47 @@
-{"blog_info":{"url":"http:\/\/www.clinicaaguirre.com","wpurl":"http:\/\/www.clinicaaguirre.com","prefix":"wp_","description":"Fisioterapia y Osteopat\u00eda","stylesheet_directory":"http:\/\/www.clinicaaguirre.com\/wp-content\/themes\/striking","activate_plugins":["\/homepages\/46\/d244244288\/htdocs\/wp-content\/plugins\/akismet\/akismet.php","\/homepages\/46\/d244244288\/htdocs\/wp-content\/plugins\/all-in-one-seo-pack\/all_in_one_seo_pack.php","\/homepages\/46\/d244244288\/htdocs\/wp-content\/plugins\/antivirus\/antivirus.php","\/homepages\/46\/d244244288\/htdocs\/wp-content\/plugins\/asesor-cookies-para-la-ley-en-espana\/plugin.php","\/homepages\/46\/d244244288\/htdocs\/wp-content\/plugins\/backwpup\/backwpup.php","\/homepages\/46\/d244244288\/htdocs\/wp-content\/plugins\/contact-form-7-to-database-extension\/contact-form-7-db.php","\/homepages\/46\/d244244288\/htdocs\/wp-content\/plugins\/contact-form-7\/wp-contact-form-7.php","\/homepages\/46\/d244244288\/htdocs\/wp-content\/plugins\/disable-wordpress-core-update\/disable-core-update.php","\/homepages\/46\/d244244288\/htdocs\/wp-content\/plugins\/google-analytics-dashboard-for-wp\/gadwp.php","\/homepages\/46\/d244244288\/htdocs\/wp-content\/plugins\/google-sitemap-generator\/sitemap.php","\/homepages\/46\/d244244288\/htdocs\/wp-content\/plugins\/nextgen-gallery\/nggallery.php"],"activate_theme":"Striking","admin_email":"info@clinicaaguirre.com","charset":"UTF-8","version":"3.7.5","backwpup_version":"3.1.4","language":"es-ES","name":"Clinica Aguirre","abspath":"\/homepages\/46\/d244244288\/htdocs\/","uploads":{"path":"\/homepages\/46\/d244244288\/htdocs\/wp-content\/uploads\/2015\/07","url":"http:\/\/www.clinicaaguirre.com\/wp-content\/uploads\/2015\/07","subdir":"\/2015\/07","basedir":"\/homepages\/46\/d244244288\/htdocs\/wp-content\/uploads","baseurl":"http:\/\/www.clinicaaguirre.com\/wp-content\/uploads","error":false},"contents":{"basedir":"\/homepages\/46\/d244244288\/htdocs\/wp-content","baseurl":"http:\/\/www.clinicaaguirre.com\/wp-content"},"plugins":{"basedir":"\/homepages\/46\/d244244288\/htdocs\/wp-content\/plugins","baseurl":"http:\/\/www.clinicaaguirre.com\/wp-content\/plugins"},"themes":{"basedir":"\/homepages\/46\/d244244288\/htdocs\/wp-content\/themes","baseurl":"http:\/\/www.clinicaaguirre.com\/wp-content\/themes"}},"job_settings":{"type":["DBDUMP","FILE","WPPLUGIN"],"destinations":["DROPBOX"],"name":"Backup completo clinicaaguirre.com","activetype":"","logfile":"","lastbackupdownloadurl":"","cronselect":"basic","cron":"0 3 * * *","mailaddresslog":"moreno.franciscoj@gmail.com","mailaddresssenderlog":"BackWPup Clinica Aguirre","mailerroronly":true,"backuptype":"archive","archiveformat":".tar.gz","archivename":"backwpup_458756_%Y-%m-%d_%H-%i-%s","maxbackups":15,"backupdir":"\/homepages\/46\/d244244288\/htdocs\/wp-content\/uploads\/backwpup-458756-backups\/","backupsyncnodelete":true,"emailaddress":"info@clinicaaguirre.com","emailefilesize":20,"emailsndemail":"info@clinicaaguirre.com","emailsndemailname":"BackWPup Clinica Aguirre","emailmethod":"","emailsendmail":"\/usr\/sbin\/sendmail -t -i","emailhost":"clinicaaguirre.com","emailhostport":25,"emailsecure":"","emailuser":"","emailpass":"","ftphost":"","ftphostport":21,"ftptimeout":90,"ftpuser":"","ftppass":"","ftpdir":"clinica-aguirre\/","ftpmaxbackups":15,"ftppasv":true,"ftpssl":false,"dropboxtoken":{"access_token":"KXl1i-wh4MIAAAAAAAAChZMQZHa0aLqkHNcGwM_bAa-bf3yJd4hHx3wjaNIq--1t","token_type":"bearer","uid":"2233336"},"dropboxroot":"sandbox","dropboxmaxbackups":15,"dropboxsyncnodelete":false,"dropboxdir":"Clinica-Aguirre\/","s3accesskey":"","s3secretkey":"","s3bucket":"","s3region":"us-east-1","s3base_url":"","s3ssencrypt":"","s3storageclass":"","s3dir":"Clinica-Aguirre\/","s3maxbackups":15,"s3syncnodelete":true,"sugarrefreshtoken":"","sugarroot":"","sugardir":"Clinica-Aguirre\/","sugarmaxbackups":15,"dbdumpexclude":[],"dbdumpfile":"db376537274","dbdumptype":"sql","dbdumpfilecompression":"","backupexcludethumbs":false,"backupspecialfiles":true,"backuproot":true,"backupcontent":true,"backupplugins":true,"backupthemes":true,"backupuploads":true,"backuprootexcludedirs":["logs","usage"],"backupcontentexcludedirs":["cache","upgrade","w3tc"],"backuppluginsexcludedirs":["backwpup","backwpup-pro"],"backupthemesexcludedirs":[],"backupuploadsexcludedirs":["backwpup-458756-logs"],"fileexclude":".tmp,.svn,.git,desktop.ini,.DS_Store","dirinclude":"","wpexportcontent":"all","wpexportfilecompression":"","wpexportfile":"Clinica-Aguirre.wordpress.%Y-%m-%d","pluginlistfilecompression":"","pluginlistfile":"Clinica-Aguirre.pluginlist.%Y-%m-%d","dbcheckwponly":true,"dbcheckrepair":false,"jobid":1},"archive":{"extra_files":["db376537274.sql","Clinica-Aguirre.pluginlist.2015-07-23.txt"],"abspath":"\/","uploads":"wp-content\/uploads\/","contents":"wp-content\/","plugins":"wp-content\/plugins\/","themes":"wp-content\/themes\/"}}
+{
+	"url": "http:\/\/www.gesticlinic.com",
+	"wpurl": "http:\/\/www.gesticlinic.com",
+	"description": "Gesticlinic Asesores \u007c Consultor\u00eda & Asesor\u00eda",
+	"admin_email": "info@gesticlinic.com",
+	"charset": "UTF-8",
+	"language": "es-ES",
+	"name": "Gesticlinic Asesores \u007c Consultor\u00eda & Asesor\u00eda",
+	"icons": [
+		{
+			"src": "\/android-icon-36x36.png",
+			"sizes": "36x36",
+			"type": "image\/png",
+			"density": "0.75"
+		},
+		{
+			"src": "\/android-icon-48x48.png",
+			"sizes": "48x48",
+			"type": "image\/png",
+			"density": "1.0"
+		},
+		{
+			"src": "\/android-icon-72x72.png",
+			"sizes": "72x72",
+			"type": "image\/png",
+			"density": "1.5"
+		},
+		{
+			"src": "\/android-icon-96x96.png",
+			"sizes": "96x96",
+			"type": "image\/png",
+			"density": "2.0"
+		},
+		{
+			"src": "\/android-icon-144x144.png",
+			"sizes": "144x144",
+			"type": "image\/png",
+			"density": "3.0"
+		},
+		{
+			"src": "\/android-icon-192x192.png",
+			"sizes": "192x192",
+			"type": "image\/png",
+			"density": "4.0"
+		}
+	]
+}
