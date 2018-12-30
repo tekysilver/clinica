@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7e15745-d6da-4e9e-a729-d15d036d84a5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/assets/images/Favicons/android-icon-192x192.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/assets/images/Favicons/apple-icon-114x114.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/assets/images/Favicons/apple-icon-120x120.png" afterDir="false" />
@@ -24,6 +25,8 @@
       <change afterPath="$PROJECT_DIR$/assets/images/Favicons/ms-icon-150x150.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/assets/images/Favicons/ms-icon-310x310.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/assets/images/Favicons/ms-icon-70x70.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.htaccess.orig" beforeDir="false" afterPath="$PROJECT_DIR$/.htaccess.orig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geositemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/geositemap.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/manifest.json" afterDir="false" />
     </list>
@@ -36,15 +39,6 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/geositemap.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="147">
@@ -53,8 +47,17 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/geositemap.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="5" column="9" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/manifest.json">
+        <entry file="file://$PROJECT_DIR$/sitemap.xml">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -67,6 +70,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/.htaccess.orig" />
+        <option value="$PROJECT_DIR$/geositemap.xml" />
       </list>
     </option>
   </component>
@@ -92,24 +97,6 @@
             <path>
               <item name="gesticlinic" type="b2602c69:ProjectViewProjectNode" />
               <item name="gesticlinic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gesticlinic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gesticlinic" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gesticlinic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gesticlinic" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gesticlinic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gesticlinic" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-              <item name="favicons" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -145,12 +132,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1546187669070</updated>
-      <workItem from="1546187673578" duration="3233000" />
+      <workItem from="1546187673578" duration="3475000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3233000" />
+    <option name="totallyTimeSpent" value="3475000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
@@ -213,16 +200,8 @@
     <entry file="file://$PROJECT_DIR$/xmlrpc.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/sitemap.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/googleb70fb7d2f4af0345.html">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.htaccess">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1401" />
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/about.php">
       <provider selected="true" editor-type-id="text-editor" />
@@ -263,15 +242,25 @@
     <entry file="file://$PROJECT_DIR$/kinesologia.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/geositemap.xml">
+    <entry file="file://$PROJECT_DIR$/assets/images/favicons/favicon-16x16.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manifest.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+        <state relative-caret-position="236">
+          <caret line="47" column="19" lean-forward="true" selection-start-line="47" selection-start-column="19" selection-end-line="47" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/images/favicons/favicon-16x16.png">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/.htaccess.orig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -280,7 +269,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/manifest.json">
+    <entry file="file://$PROJECT_DIR$/geositemap.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="9" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sitemap.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
